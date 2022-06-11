@@ -73,7 +73,7 @@
 //备用解析是常规格式的解析，可以添加多个，例如：http://xxx.com?url=#https://xxx.com?url=用#号分割，最后一个后面不加#号
 "beiyongjiexi": "https://nbjx.vip/?url=#https://www.pangujiexi.com/pangu/?url=#https://www.nxflv.com/?url=#http://api.diliktv.xyz/vip/jx.php?url=#http://m2090.com/?url=#https://jx.blbo.cc:4433/?url=#https://jx.parwix.com:4433/player/?url=",
 //填写电视直播的接口链接
-"dianshizhibo": "https://raw.iqiq.io/tianiue/MovieTV/master/zb.txt",
+"dianshizhibo": "https://ghproxy.futils.com/https://github.com/tianiue/MovieTV/blob/master/zb.txt",
 //填写体育直播的网址链接
 "tiyuzhibo": "https://m.zhibo8.net",
 //填写播放地址过滤规则，中间用#号分割，不用填太多，默认的基本够用，主要是针对自定义的网站过滤的
