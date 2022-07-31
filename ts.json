@@ -1,4 +1,3 @@
-//首页的栏目可以自己设置标题名称和图片，key不用改动，是列表页的识别标志，每个栏目的顺序也可以随意排序
 {"Home": [
 {"key":"APP","title":"影视","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/01.jpg"},
 {"key":"网页","title":"网页","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/02.jpg"},
@@ -10,7 +9,6 @@
 {"key":"待添加","title":"待加","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/08.jpg"}
 ],
 
-//填写APP接口，支持5种接口格式，后缀为/v1.vod/v1/app/v2/v1.vod，最后一个接口结尾不加,号
 "zhuyejiekou": [
 {"name":"天空影视","url":"https://tkys.tv/xgapp.php/v1/"},
 {"name":"爱电影","url":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
@@ -38,13 +36,13 @@
 {"name":"兔子窝","url":"http://cj.huimaojia.com:12345/mogai_api.php/v1.vod"},
 {"name":"渔渔影视","url":"http://luobo.yugenye.site/api.php/v1.vod"},
 {"name":"海胆影视","url":"http://xf123.cc/api.php/app/"},
+{"name":"星辰影院","url":"http://fgyuu.top/lehailb_api.php/v1.vod"},
 {"name":"看365","url":"https://www.kan365.xyz/api.php/app/"},
 {"name":"快云影音","url":"https://www.kuaiyunyy.com/api.php/app/"},
 {"name":"躺平影视","url":"http://www.lltpys.com/api.php/app/"},
 {"name":"粉象视界","url":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"}
 ],
 
-//填写采集接口
 "caijizhan": [
 {"name":"鲲娱","url":"http://api.kunyu77.com/api.php"},
 {"name":"无尽","url":"https://api.wujinapi.com/api.php"},
@@ -63,7 +61,6 @@
 {"name":"39看","url":"https://www.39kan.com/api.php"}
 ],
 
-//主解析是JSON直链格式的解析
 "zhujiexi":[
 {"name":"解析1","url":"https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=hlmnpqswHIKQRSX146&url="},
 {"name":"解析2","url":"https://humaosp.com/json.php?url="},
@@ -92,7 +89,6 @@
 {"name":"解析25","url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url="}
 ],
 
-//备用解析是常规格式的解析
 "beiyongjiexi": [
 {"name":"解析1","url":"https://nbjx.vip/?url="},
 {"name":"解析2","url":"https://www.pangujiexi.com/pangu/?url="},
@@ -104,13 +100,10 @@
 {"name":"解析8","url":"https://za.kuanjv.com/?url="}
 ],
 
-//填写电视直播的接口链接
-"dianshizhibo": "https://raw.iqiq.io/tianiue/MovieTV/master/zb.txt",
+"dianshizhibo": "https://zhy.myds.me:8005/d/Resource/zb.txt",
 
-//填写播放地址过滤规则，中间用#号分割，不用填太多，默认的基本够用，主要是针对自定义的网站过滤的。
 "guolvdizhi": "player.css#url=#51.la#poster#api.php#file=#cnzz.com#baidu.com#.gif",
 
-//填写网页接口内容，格式是{自定义1},{自定义2},{自定义3}花括号里面是一个网页接口 用，号分割 最后一个不加，号
 "zidingyi": [
 {"name": "剧白白",
 "url": "https://www.jubaibai.cc",
@@ -120,8 +113,8 @@
 "列表显示": "0",
 "横图显示": "0",
 "fenlei": "电视剧$/type/dianshiju-#电影$/type/dianying-#综艺$/type/zongyi-#动漫$/type/dongman-#纪录片$/type/jilupian-#动作片$/vodshow/id/dongzuopian/page/#喜剧片$/vodshow/id/xijupian/page/#爱情片$/vodshow/id/aiqingpian/page/#科幻片$/vodshow/id/kehuanpian/page/#恐怖片$/vodshow/id/kongbupian/page/#剧情片$/vodshow/id/juqingpian/page/#战争片$/vodshow/id/zhanzhengpian/page/#国产剧$/vodshow/id/guochanju/page/#港台剧$/vodshow/id/gangtaiju/page/#日韩剧$/vodshow/id/rihanju/page/#欧美剧$/vodshow/id/oumeiju/page/#其他剧$/vodshow/id/qitaju/page/",
-"houzhui": "---.html",
-"qishiye": "空",
+"houzhui": ".html",
+"shouye": "1",
 "shifouercijiequ": "0",
 "jiequqian": "空",
 "jiequhou": "空",
