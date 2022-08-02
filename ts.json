@@ -400,7 +400,7 @@
 "daoyanhou": "</p>",
 "zhuyanqian": "class=\"data\">主演：",
 "zhuyanhou": "</p>",
-"juqingqian": "class=\"detail-content\"",
+"juqingqian": "style=\"display: none;\">",
 "juqinghou": "</span>",
 "bfyshifouercijiequ": "0",
 "bfyjiequqian": "空",
