@@ -1,0 +1,50 @@
+#EXTM3U url-tvg="http://e.erw.cc/e.xml"
+
+#EXTINF:-1 tvg-id="200" tvg-name="浙江卫视" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang.png" group-title="浙江",浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-id="200" tvg-name="钱江都市" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang1.png" group-title="浙江",钱江都市
+http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-id="201" tvg-name="经济生活" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang2.png" group-title="浙江",经济生活
+http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="202" tvg-name="教科影视" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang3.png" group-title="浙江",教科影视
+http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="203" tvg-name="民生休闲" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang4.png" group-title="浙江",民生休闲
+http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="204" tvg-name="浙江新闻" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang5.png" group-title="浙江",浙江新闻
+http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-id="205" tvg-name="浙江少儿" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang6.png" group-title="浙江",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="206" tvg-name="浙江国际" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang7.png" group-title="浙江",浙江国际
+http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="207" tvg-name="之江纪录" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang8.png" group-title="浙江",之江纪录
+http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="余杭综合" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Hangzhou1.png" group-title="浙江",余杭综合
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-id="" tvg-name="余杭未来" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang.png" group-title="浙江",余杭未来
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
+#EXTINF:-1 tvg-id="" tvg-name="诸暨新闻" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang.png" group-title="浙江",诸暨新闻
+http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
+#EXTINF:-1 tvg-id="" tvg-name="上虞新闻" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang.png" group-title="浙江",上虞新闻
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-id="" tvg-name="平湖新闻" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang.png" group-title="浙江",平湖新闻
+http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-id="" tvg-name="平湖民生" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang.png" group-title="浙江",平湖民生
+http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
+#EXTINF:-1 tvg-id="" tvg-name="萧山综合" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang.png" group-title="浙江",萧山综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-id="" tvg-name="萧山新闻" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang.png" group-title="浙江",萧山新闻
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+#EXTINF:-1 tvg-id="" tvg-name="余姚新闻" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang.png" group-title="浙江",余姚新闻
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-id="" tvg-name="余姚姚江" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang.png" group-title="浙江",余姚姚江
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
+#EXTINF:-1 tvg-id="" tvg-name="嵊州新闻" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang.png" group-title="浙江",嵊州新闻
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-id="" tvg-name="上虞文化" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang.png" group-title="浙江",上虞文化
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+#EXTINF:-1 tvg-id="" tvg-name="上虞商都" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang.png" group-title="浙江",上虞商都
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+#EXTINF:-1 tvg-id="" tvg-name="兰溪新闻" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang.png" group-title="浙江",兰溪新闻
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-id="" tvg-name="武义新闻" tvg-logo="https://pic.erw.cc/epglogo/zhejiang/Zhejiang.png" group-title="浙江",武义新闻
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
